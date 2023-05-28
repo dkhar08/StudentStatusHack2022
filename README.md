@@ -5,8 +5,7 @@ The challenge of this competition was to predict students' status after a year o
 
 Let's look at the pictures.
 
-![alt text](https://github.com/dkhar08/StudentStatusHack2022
-/blob/main/pictures/p1.png?raw=true)
+![alt text](https://github.com/dkhar08/StudentStatusHack2022/blob/main/pictures/p1.png?raw=true)
 
 1st of them depicts how status depends on the number of a group. 2nd - from a number of people who have the same group.
 
